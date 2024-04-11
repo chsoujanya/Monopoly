@@ -7,7 +7,9 @@ http://localhost:8080/game/playGame
 It start the game and total of 50 turns are given to the players. If the player is landed on a non-purchased property he auto purchases it and if he lands on property which is on rent he automatically pays the rent and updates the money in db.
 
 http://localhost:8080/game/checkWinner
-It checks the winner of the game by getting the money stored in db by
+It checks the winner of the game by getting the money stored in db.
+
+
 
 
 
